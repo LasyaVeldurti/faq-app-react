@@ -1,0 +1,20 @@
+/* Write your code here. */
+.faq-item {
+  border: 1px solid #9aa5b1;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 12px;
+}
+.question-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.img-icon {
+  width: 30px;
+  height: 30px;
+}
+.button-img {
+  background: transparent;
+  border-style: none;
+}

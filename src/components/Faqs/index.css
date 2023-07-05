@@ -1,0 +1,20 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #d7dae6;
+  height: 100vh;
+  padding: 20px;
+  overflow-y: auto;
+}
+.faq-container {
+  background-color: #ffffff;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.title {
+  text-align: center;
+  color: #cb8805;
+}
+.fal-ul-container {
+  list-style-type: none;
+}
